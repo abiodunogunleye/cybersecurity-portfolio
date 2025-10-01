@@ -1,0 +1,32 @@
+title: "Abiodun's Cybersecurity Portfolio"
+description: "Hands-on labs, reports, and projects in cybersecurity."
+url: "https://yourusername.github.io"
+baseurl: "/cybersecurity-portfolio"
+
+# Theme
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+
+plugins:
+  - jekyll-include-cache
+  - jekyll-feed
+
+author:
+  name   : "Abiodun"
+  bio    : "Cybersecurity analyst documenting Security+ labs and reports."
+  links:
+    - label: "Email"
+      icon: "fas fa-envelope"
+      url: "mailto:youremail@example.com"
+    - label: "GitHub"
+      icon: "fab fa-github"
+      url: "https://github.com/yourusername"
+    - label: "LinkedIn"
+      icon: "fab fa-linkedin"
+      url: "https://linkedin.com/in/yourprofile"
+
+# Navigation
+header_pages:
+  - index.md
+  - about.md
+  - labs/index.md
+  - reports/index.md
