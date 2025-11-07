@@ -15,5 +15,7 @@ This site documents my labs, projects, and professional-style reports.
 - [Episodes 14–16: Stealth Scanning and DNS Tools](labs/ep14-16.md)
 - [Episode 17: Essential Linux Commands](labs/ep17-linux-commands.md)
 - [Episodes 18–19: head and cat Commands](labs/ep18-19-head-cat.md)
+- [Episode 20: grep Command](labs/ep20-grep.md)
+
 
 
